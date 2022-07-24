@@ -11,4 +11,4 @@ miui的隐私防护，特别是剪贴板防护，对我而言没有太大提升�
 
 # 演示
 
-![demo](demo.gif)
+![demo](https://raw.githubusercontent.com/zerorooot/HideMiuiClipboardDialog/main/demo.gif)
